@@ -8,7 +8,7 @@ The user must provide the name of the target domain and the path to the word lis
 How to use:
 Insert in this order, site and dictionary.
 
-      "python3 dnsbrute.py abcdefg.com dnsbrutedictionaryPTBR.txt"
+      python3 dnsbrute.py abcdefg.com dnsbrutedictionaryPTBR.txt
 
 
 
